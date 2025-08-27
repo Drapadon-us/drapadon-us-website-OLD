@@ -1,5 +1,5 @@
-$primary: #2c86ff; // TODO: This should be Bluey's color
-$secondary: #fe9d6e; // TODO: This should be Bingo's color
+$primary: #627082; // TODO: This should be Bluey's color
+$secondary: #627082; // TODO: This should be Bingo's color
 
 @import "./node_modules/bootstrap/scss/bootstrap";
 
@@ -10,9 +10,9 @@ $secondary: #fe9d6e; // TODO: This should be Bingo's color
 }
 
 // Staff colors
-$helpers: #8f9fd5;
-$mods: #216fd4;
-$leadership: #ff6900;
+$helpers: #627082;
+$mods: #627082;
+$leadership: #627082;
 
 @font-face {
     font-family: Bluey;
